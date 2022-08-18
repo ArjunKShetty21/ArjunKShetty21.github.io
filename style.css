@@ -287,10 +287,10 @@ header .navbar ul li a:hover{
 }
 
 .portfolio .box-container .box{
-    height: 20rem;
-    width:26rem;
+    height: 25rem;
+    width: 44rem;
     border-radius: 1rem;
-    margin:2rem;
+    margin: 2rem;
     overflow: hidden;
     cursor: pointer;
 }
@@ -371,7 +371,14 @@ header .navbar ul li a:hover{
     z-index: 100;
     display: none;
 }
-
+.heading2{
+    text-align: center;
+    margin:0 6rem;
+    font-size: 3rem;
+    padding:2rem;
+    
+    color:#fff;
+}
 
 
 
