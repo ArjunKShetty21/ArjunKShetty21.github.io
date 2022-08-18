@@ -1,3 +1,2 @@
-# ArjunKShetty21.github.io
-my portfolio
-click here https://arjunkshetty21.github.io/
+# CHECK OUT IN THE MASTER BRANCH
+
